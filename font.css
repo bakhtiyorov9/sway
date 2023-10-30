@@ -1,0 +1,11 @@
+@font-face {
+    src: url(./fonts/NeueHaasUnica-Regular.ttf);
+    font-family: "Neue Haas Unica";
+    font-weight: 400;
+}
+
+@font-face {
+    src: url(./fonts/NeueHaasUnica-Medium.ttf);
+    font-family: "Neue Haas Unica";
+    font-weight: 500;
+}
